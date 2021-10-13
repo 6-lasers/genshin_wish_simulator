@@ -1,0 +1,449 @@
+{
+    "venti": {
+        "4": [
+            "Barbara",
+            "Fischl",
+            "Xiangling"
+        ],
+        "5": [
+            "Venti"
+        ]
+    },
+    "klee": {
+        "4": [
+            "Noelle",
+            "Sucrose",
+            "Xingqiu"
+        ],
+        "5": [
+            "Klee"
+        ]
+    },
+    "childe": {
+        "4": [
+            "Beidou",
+            "Diona",
+            "Ningguang"
+        ],
+        "5": [
+            "Childe"
+        ]
+    },
+    "zhongli": {
+        "4": [
+            "Chongyun",
+            "Razor",
+            "Xinyan"
+        ],
+        "5": [
+            "Zhongli"
+        ]
+    },
+    "albedo": {
+        "4": [
+            "Bennett",
+            "Fischl",
+            "Sucrose"
+        ],
+        "5": [
+            "Albedo"
+        ]
+    },
+    "ganyu": {
+        "4": [
+            "Noelle",
+            "Xiangling",
+            "Xingqiu"
+        ],
+        "5": [
+            "Ganyu"
+        ]
+    },
+    "xiao": {
+        "4": [
+            "Beidou",
+            "Diona",
+            "Xinyan"
+        ],
+        "5": [
+            "Xiao"
+        ]
+    },
+    "keqing": {
+        "4": [
+            "Barbara",
+            "Bennett",
+            "Ningguang"
+        ],
+        "5": [
+            "Keqing"
+        ]
+    },
+    "hutao": {
+        "4": [
+            "Chongyun",
+            "Xiangling",
+            "Xingqiu"
+        ],
+        "5": [
+            "Hu Tao"
+        ]
+    },
+    "venti2": {
+        "4": [
+            "Noelle",
+            "Razor",
+            "Sucrose"
+        ],
+        "5": [
+            "Venti"
+        ]
+    },
+    "childe2": {
+        "4": [
+            "Barbara",
+            "Fischl",
+            "Rosaria"
+        ],
+        "5": [
+            "Childe"
+        ]
+    },
+    "zhongli2": {
+        "4": [
+            "Diona",
+            "Noelle",
+            "Yanfei"
+        ],
+        "5": [
+            "Zhongli"
+        ]
+    },
+    "eula": {
+        "4": [
+            "Beidou",
+            "Xingqiu",
+            "Xinyan"
+        ],
+        "5": [
+            "Eula"
+        ]
+    },
+    "klee2": {
+        "4": [
+            "Barbara",
+            "Fischl",
+            "Sucrose"
+        ],
+        "5": [
+            "Klee"
+        ]
+    },
+    "kazuya": {
+        "4": [
+            "Bennett",
+            "Razor",
+            "Rosaria"
+        ],
+        "5": [
+            "Kazuya"
+        ]
+    },
+    "ayaka": {
+        "4": [
+            "Chongyun",
+            "Ningguang",
+            "Yanfei"
+        ],
+        "5": [
+            "Kamisato Ayaka"
+        ]
+    },
+    "yoimiya": {
+        "4": [
+            "Diona",
+            "Sayu",
+            "Xinyan"
+        ],
+        "5": [
+            "Yoimiya"
+        ]
+    },
+    "raiden": {
+        "4": [
+            "Kujou Sara",
+            "Sucrose",
+            "Xiangling"
+        ],
+        "5": [
+            "Raiden Shogun"
+        ]
+    },
+    "kokomi": {
+        "4": [
+            "Beidou",
+            "Rosaria",
+            "Xingqiu"
+        ],
+        "5": [
+            "Sangonomiya Kokomi"
+        ]
+    },
+    "childe3": {
+        "4": [
+            "Chongyun",
+            "Ningguang",
+            "Yanfei"
+        ],
+        "5": [
+            "Childe"
+        ]
+    },
+    "venti_weap": {
+        "4": [
+            "The Bell",
+            "Favonius Lance",
+            "The Flute",
+            "The Stringless",
+            "The Widsith"
+        ],
+        "5": [
+            "Amos' Bow",
+            "Aquila Favonia"
+        ]
+    },
+    "klee_weap": {
+        "4": [
+            "Dragon's Bane",
+            "Sacrificial Bow",
+            "Sacrificial Fragments",
+            "Sacrificial Greatsword",
+            "Sacrificial Sword"
+        ],
+        "5": [
+            "Lost Prayer to the Sacred Winds",
+            "Wolf's Gravestone"
+        ]
+    },
+    "childe_weap": {
+        "4": [
+            "Eye of Perception",
+            "Favonius Lance",
+            "The Flute",
+            "Rainslasher",
+            "Rust"
+        ],
+        "5": [
+            "Memory of Dust",
+            "Skyward Harp"
+        ]
+    },
+    "zhongli_weap": {
+        "4": [
+            "The Bell",
+            "Dragon's Bane",
+            "Favonius Codex",
+            "Favonius Warbow",
+            "Lion's Roar"
+        ],
+        "5": [
+            "The Unforged",
+            "Vortex Vanquisher"
+        ]
+    },
+    "albedo_weap": {
+        "4": [
+            "Favonius Greatsword",
+            "Favonius Lance",
+            "Favonius Sword",
+            "Sacrificial Fragments",
+            "The Stringless"
+        ],
+        "5": [
+            "Skyward Atlas",
+            "Summit Shaper"
+        ]
+    },
+    "ganyu_weap": {
+        "4": [
+            "The Bell",
+            "Dragon's Bane",
+            "Eye of Perception",
+            "Favonius Warbow",
+            "Sacrificial Sword"
+        ],
+        "5": [
+            "Amos' Bow",
+            "Skyward Pride"
+        ]
+    },
+    "xiao_weap": {
+        "4": [
+            "Eye of Perception",
+            "Favonius Lance",
+            "The Flute",
+            "Rust",
+            "Sacrificial Greatsword"
+        ],
+        "5": [
+            "Primordial Jade Cutter",
+            "Primordial Jade Winged-Spear"
+        ]
+    },
+    "hutao_weap": {
+        "4": [
+            "Lion's Roar",
+            "Lithic Blade",
+            "Lithic Spear",
+            "Sacrificial Bow",
+            "The Widsith"
+        ],
+        "5": [
+            "Staff of Homa",
+            "Wolf's Gravestone"
+        ]
+    },
+    "venti2_weap": {
+        "4": [
+            "The Alley Flash",
+            "Dragon's Bane",
+            "Favonius Greatsword",
+            "Favonius Warbow",
+            "Wine and Song"
+        ],
+        "5": [
+            "Elegy for the End",
+            "Skyward Blade"
+        ]
+    },
+    "childe2_weap": {
+        "4": [
+            "Alley Hunter",
+            "Favonius Codex",
+            "Favonius Lance",
+            "Favonius Sword",
+            "Sacrificial Greatsword"
+        ],
+        "5": [
+            "Lost Prayer to the Sacred Winds",
+            "Skyward Harp"
+        ]
+    },
+    "zhongli2_weap": {
+        "4": [
+            "Eye of Perception",
+            "The Flute",
+            "Lithic Blade",
+            "Lithic Spear",
+            "Sacrificial Bow"
+        ],
+        "5": [
+            "Memory of Dust",
+            "Summit Shaper"
+        ]
+    },
+    "eula_weap": {
+        "4": [
+            "Dragon's Bane",
+            "Rainslasher",
+            "Rust",
+            "Sacrificial Fragments",
+            "Sacrificial Sword"
+        ],
+        "5": [
+            "Aquila Favonia",
+            "Song of Broken Pines"
+        ]
+    },
+    "klee2_weap": {
+        "4": [
+            "The Bell",
+            "Favonius Lance",
+            "Lion's Roar",
+            "Mitternachts Waltz",
+            "The Widsith"
+        ],
+        "5": [
+            "Lost Prayer to the Sacred Winds",
+            "Skyward Pride"
+        ]
+    },
+    "kazuya_weap": {
+        "4": [
+            "The Alley Flash",
+            "Alley Hunter",
+            "Dragon's Bane",
+            "Favonius Greatsword",
+            "Wine and Song"
+        ],
+        "5": [
+            "Freedom-Sworn",
+            "Skyward Atlas"
+        ]
+    },
+    "ayaka_weap": {
+        "4": [
+            "Favonius Codex",
+            "Favonius Lance",
+            "Favonius Sword",
+            "Sacrificial Greatsword",
+            "The Stringless"
+        ],
+        "5": [
+            "Mistsplitter Reforged",
+            "Skyward Spine"
+        ]
+    },
+    "yoimiya_weap": {
+        "4": [
+            "Dragon's Bane",
+            "Favonius Warbow",
+            "Rainslasher",
+            "Sacrificial Fragments",
+            "Sacrificial Sword"
+        ],
+        "5": [
+            "Skyward Blade",
+            "Thundering Pulse"
+        ]
+    },
+    "raiden_weap": {
+        "4": [
+            "The Bell",
+            "Favonius Lance",
+            "Lion's Roar",
+            "Sacrificial Bow",
+            "The Widsith"
+        ],
+        "5": [
+            "Engulfing Lightning",
+            "The Unforged"
+        ]
+    },
+    "kokomi_weap": {
+        "4": [
+            "Dragon's Bane",
+            "Favonius Codex",
+            "Favonius Greatsword",
+            "The Flute",
+            "The Stringless"
+        ],
+        "5": [
+            "Everlasting Moonglow",
+            "Primordial Jade Cutter"
+        ]
+    },
+    "childe3_weap": {
+        "4": [
+            "Akuoumaru",
+            "Eye of Perception",
+            "Favonius Lance",
+            "Favonius Sword",
+            "Rust"
+        ],
+        "5": [
+            "Memory of Dust",
+            "Polar Star"
+        ]
+    }
+}
