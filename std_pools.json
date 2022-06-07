@@ -15,9 +15,9 @@
         "Thrilling Tales of Dragon Slayers"
     ],
     "starter_char_pool": [
-    "Amber",
-    "Kaeya",
-    "Lisa"
+        "Amber",
+        "Kaeya",
+        "Lisa"
     ],
     "std_4_char_pool": [
         "Barbara",
@@ -26,6 +26,7 @@
         "Chongyun",
         "Diona",
         "Fischl",
+        "Gorou",
         "Kujou Sara",
         "Ningguang",
         "Noelle",
@@ -34,10 +35,12 @@
         "Sayu",
         "Sucrose",
         "Sayu",
+        "Thoma",
         "Xiangling",
         "Xingqiu",
         "Xinyan",
-        "Yanfei"
+        "Yanfei",
+        "Yun Jin"
     ],
     "std_4_weap_pool": [
         "The Bell",

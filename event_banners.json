@@ -199,6 +199,142 @@
             "Childe"
         ]
     },
+    "hutao2": {
+        "4": [
+            "Diona",
+            "Sayu",
+            "Thoma"
+        ],
+        "5": [
+            "Hu Tao"
+        ]
+    },
+    "albedo2": {
+        "4": [
+            "Bennett",
+            "Noelle",
+            "Rosaria"
+        ],
+        "5": [
+            "Albedo"
+        ]
+    },
+    "eula2": {
+        "pair": "albedo2",
+        "5": [
+            "Eula"
+        ]
+    },
+    "itto": {
+        "4": [
+            "Barbara",
+            "Gorou",
+            "Xiangling"
+        ],
+        "5": [
+            "Arataki Itto"
+        ]
+    },
+    "shenhe": {
+        "4": [
+            "Chongyun",
+            "Ningguang",
+            "Yun Jin"
+        ],
+        "5": [
+            "Shenhe"
+        ]
+    },
+    "xiao2": {
+        "pair": "shenhe",
+        "5": [
+            "Xiao"
+        ]
+    },
+    "zhongli3": {
+        "4": [
+            "Beidou",
+            "Yanfei",
+            "Xingqiu"
+        ],
+        "5": [
+            "Zhongli"
+        ]
+    },
+    "ganyu2": {
+        "pair": "zhongli3",
+        "5": [
+            "Ganyu"
+        ]
+    },
+    "yaemiko": {
+        "4": [
+            "Diona",
+            "Fischl",
+            "Thoma"
+        ],
+        "5": [
+            "Yae Miko"
+        ]
+    },
+    "raiden2": {
+        "4": [
+            "Bennett",
+            "Kujou Sara",
+            "Xinyan"
+        ],
+        "5": [
+            "Raiden Shogun"
+        ]
+    },
+    "kokomi2": {
+        "pair": "raiden2",
+        "5": [
+            "Sangonomiya Kokomi"
+        ]
+    },
+    "ayato": {
+        "4": [
+            "Sucrose",
+            "Xiangling",
+            "Yun Jin"
+        ],
+        "5": [
+            "Kamisato Ayato"
+        ]
+    },
+    "venti3": {
+        "pair": "ayato",
+        "5": [
+            "Venti"
+        ]
+    },
+    "ayaka2": {
+        "4": [
+            "Razor",
+            "Rosaria",
+            "Sayu"
+        ],
+        "5": [
+            "Kamisato Ayaka"
+        ]
+    },
+    "yelan": {
+        "4": [
+            "Barbara",
+            "Noelle",
+            "Yanfei"
+        ],
+        "5": [
+            "Yelan"
+        ]
+    },
+    "xiao3": {
+        "pair": "yelan",
+        "5": [
+            "Xiao"
+        ]
+    },
     "venti_weap": {
         "4": [
             "The Bell",
@@ -444,6 +580,136 @@
         "5": [
             "Memory of Dust",
             "Polar Star"
+        ]
+    },
+    "hutao2_weap": {
+        "4": [
+            "Mouun's Moon",
+            "Rainslasher",
+            "Sacrificial Sword",
+            "Wavebreaker's Fin",
+            "The Widsith"
+        ],
+        "5": [
+            "Elegy for the End",
+            "Staff of Homa"
+        ]
+    },
+    "albedoeula_weap": {
+        "4": [
+            "Alley Hunter",
+            "Dragon's Bane",
+            "Lion's Roar",
+            "Sacrifical Greatsword",
+            "Wine and Song"
+        ],
+        "5": [
+            "Freedom-Sword",
+            "Song of Broken Pines"
+        ]
+    },
+    "itto_weap": {
+        "4": [
+            "The Alley Flash",
+            "The Bell",
+            "Favonius Lance",
+            "Mitternachts Waltz",
+            "Sacrifical Fragments"
+        ],
+        "5": [
+            "Redhorn Stonethresher",
+            "Skyward Harp"
+        ]
+    },
+    "shenhe_weap": {
+        "4": [
+            "Favonius Greatsword",
+            "Favonius Warbow",
+            "The Flute",
+            "Lithic Spear",
+            "The Widsith"
+        ],
+        "5": [
+            "Calamity Queller",
+            "Primordial Jade Winged-Spear"
+        ]
+    },
+    "zhongliganyu_weap": {
+        "4": [
+            "Dragon's Bane",
+            "Favonius Codex",
+            "Favonius Sword",
+            "Lithic Blade",
+            "Sacrificial Bow"
+        ],
+        "5": [
+            "Vortex Vanquisher",
+            "Amos' Bow"
+        ]
+    },
+    "yaemiko_weap": {
+        "4": [
+            "Eye of Perception",
+            "Rainslasher",
+            "Sacrificial Sword",
+            "The Stringless",
+            "Wavebreaker's Fin"
+        ],
+        "5": [
+            "Kagura's Verity",
+            "Primordial Jade Cutter"
+        ]
+    },
+    "raidenkokomi_weap": {
+        "4": [
+            "Akuoumaru",
+            "Eye of Perception",
+            "Favonius Lance",
+            "Favonius Sword",
+            "Rust"
+        ],
+        "5": [
+            "Engulfing Lightning",
+            "Everlasting Moonglow"
+        ]
+    },
+    "ayato_weap": {
+        "4": [
+            "Akuoumaru",
+            "Lion's Roar",
+            "Mouun's Moon",
+            "Favonius Lance",
+            "Sacrifical Fragments"
+        ],
+        "5": [
+            "Memory of Dust",
+            "Polar Star"
+        ]
+    },
+    "ayaka2_weap": {
+        "4": [
+            "The Bell",
+            "Favonius Codex",
+            "Favonius Lance",
+            "Favonius Sword",
+            "Favonius Warbow"
+        ],
+        "5": [
+            "Mistsplitter Reforged",
+            "The Unforged"
+        ]
+    },
+    "yelan_weap": {
+        "4": [
+            "Eye of Perception",
+            "Favonius Greatsword",
+            "Lithic Spear",
+            "Sacrificial Bow",
+            "Sacrificial Sword"
+        ],
+        "5": [
+            "Aqua Simulacra",
+            "Primordial Jade Winged-Spear"
         ]
     }
 }

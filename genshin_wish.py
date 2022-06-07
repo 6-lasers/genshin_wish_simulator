@@ -149,6 +149,11 @@ class bannerState:
         else:
             self.do_pull = self.do_event_pull
             
+            # Character-2 support (marked by 'pair' keyword),
+            # the 4* are the same as the banner named in 'pair'
+            if 'pair' in event_wish_list[banner]:
+                event_wish_list[banner]['4'] = event_wish_list[event_wish_list[banner]['pair']]['4']
+            
             # Weapon vs character banner
             if banner[-5:] == "_weap":
                 self.pull_type = "weapon"
